@@ -1,6 +1,6 @@
 # Hi, I'm Javi 👋
 
-### Software Engineer | Double Master's Candidate in Computer Engineering & Cybersecurity
+## Software Engineer | Double Master's Candidate in Computer Engineering & Cybersecurity
 
 I’m a Computer Engineer (*Ingeniería Informática*) recently graduated in Spain, currently diving deep into a specialized **Double Master’s in Computer Engineering and Cybersecurity**. 
 
@@ -10,18 +10,18 @@ I build high-performance systems and then figure out how to harden them. I'm alw
 
 ## 🛠 Featured Projects
 
-### 🖼️ [Cardenas Pacheco | Artwork Gallery](https://github.com/jfdg01/portal-artistas)
-**A high-performance Artist Showcase:**
+### 🎨 Cardenas Pacheco 🖌️ | Classical Artwork Portfolio
+**A high-performance Artist Showcase:** [(Repo)](https://github.com/jfdg01/portal-artistas)
 * **The Tech**: Svelte 5 (Runes), Tailwind 4, Sharp, Vercel Edge.
 * **The Goal**: A gallery that gets out of the way. Instant load times, 12-language i18n, and excellent Lighthouse scores.
 
-### 🏋️ [Gym Tracker](https://github.com/jfdg01/gym-tracker)
-**An offline-first, no-nonsense workout logger.**
+### 🏋️ Gym Tracker 🗓️ | Smartphone app
+**An offline-first, no-nonsense workout logger:** [(Repo)](https://github.com/jfdg01/gym-tracker)
 * **The Tech**: Expo 52 (New Architecture), SQLite JSI, Drizzle ORM, NativeWind v4.
 * **The Goal**: To escape subscription-based fitness apps. Total privacy, zero lag database calls, and automated linear progression math.
 
-### 🎓 [Academy Management App](https://github.com/jfdg01/academy-management-app)
-**Enterprise-grade educational platform.**
+### 🎓 Academy Management App 📚 | Fullstack app
+**Enterprise-grade educational platform:** [(Repo)](https://github.com/jfdg01/academy-management-app)
 * **The Tech**: Java 21, Spring Boot 3.5, SvelteKit, PostgreSQL, Stripe integration.
 * **The Goal**: Robust backend stability meets a modern, reactive frontend. Handles everything from role-based access to automated payment webhooks.
 
