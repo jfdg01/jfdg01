@@ -48,12 +48,3 @@ I build high-performance systems and then figure out how to harden them. I'm alw
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Research-red?style=flat-square&logo=securityscorecard&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Edge-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
-## 📈 By the Numbers
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfdg01&show_icons=true&theme=transparent" alt="Javi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfdg01&layout=compact&theme=transparent" alt="Top Langs" />
-</div>
