@@ -53,5 +53,7 @@ I build high-performance systems and then figure out how to harden them. I'm alw
 
 ## 📈 By the Numbers
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jfdg01&show_icons=true&theme=transparent" alt="Javi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfdg01&layout=compact&theme=transparent" alt="Top Langs" />
+</div>
