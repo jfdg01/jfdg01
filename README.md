@@ -13,7 +13,7 @@ I build high-performance systems and then figure out how to harden them. I'm alw
 ### 🎨 Cardenas Pacheco 🖌️ | Classical Artwork Portfolio
 
 **A high-performance Artist Showcase:** [(Repo)](https://github.com/jfdg01/portal-artistas)
-A beautiful artwork gallery that gets out of the way. Instant load times, 12-language i18n, and excellent Lighthouse scores. [cardenaspacheco.es](https://cardenaspacheco.es)
+A beautiful artwork gallery that gets out of the way. Instant load times, 12-language i18n, and excellent Lighthouse scores: [`cardenaspacheco.es`](https://cardenaspacheco.es)
 
 ![Svelte](https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Sharp](https://img.shields.io/badge/Sharp-99CC00?style=flat-square&logo=sharp&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel_Edge-000000?style=flat-square&logo=vercel&logoColor=white)
 
